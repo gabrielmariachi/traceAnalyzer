@@ -1,0 +1,2 @@
+SESS timestamp=44647.831840914 pid=5575 sid=713ec136898f6053 exename="/home/gabriel/Downloads/traceAnalyze/case1/recursive"
+TASK timestamp=44647.831955244 tid=5575 pid=5575

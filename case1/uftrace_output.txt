@@ -1,0 +1,15 @@
+# DURATION    TID     FUNCTION
+   1.453 us [ 5575] | __monstartup();
+   1.023 us [ 5575] | __cxa_atexit();
+            [ 5575] | main() {
+   4.712 us [ 5575] |   printf();
+   1.661  s [ 5575] |   __isoc99_scanf();
+            [ 5575] |   Call_Factorial() {
+            [ 5575] |     Call_Factorial() {
+            [ 5575] |       Call_Factorial() {
+   7.408 us [ 5575] |         Call_Factorial();
+   8.245 us [ 5575] |       } /* Call_Factorial */
+   8.835 us [ 5575] |     } /* Call_Factorial */
+   9.527 us [ 5575] |   } /* Call_Factorial */
+   5.163 us [ 5575] |   printf();
+   1.661  s [ 5575] | } /* main */
