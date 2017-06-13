@@ -1,0 +1,2 @@
+SESS timestamp=110242.872212690 pid=27115 sid=54d7a0fbccb5e6d5 exename="/home/gabriel/Downloads/traceAnalyze/case2/rectangle"
+TASK timestamp=110242.872310520 tid=27115 pid=27115
